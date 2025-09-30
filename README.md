@@ -1,4 +1,4 @@
-# 🚀 Project 1 — Build Your Own Cloud Storage with MinIO
+# 🚀 Build Your Own Cloud Storage with MinIO
 
 This project demonstrates how to set up a self-hosted **cloud storage system** using [MinIO](https://min.io), create buckets, manage users and IAM policies, and automate file uploads using **Python + Watchdog**.
 

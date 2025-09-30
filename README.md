@@ -174,17 +174,6 @@ Now, any file added to `files_to_upload` folder will be **uploaded automatically
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots in the `screenshots/` folder)
-
-- MinIO Web Console  
-- Bucket Creation  
-- IAM Policy JSON  
-- Python Upload Success  
-- Automated Upload in Action  
-
----
-
 ## ✅ Tech Stack
 - **MinIO** (Cloud Storage)
 - **Python** (MinIO SDK, Watchdog)
